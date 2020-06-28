@@ -1,2 +1,2 @@
-# MitCourseWebsite.github.io
+# MitCourseWebsite
 Website
